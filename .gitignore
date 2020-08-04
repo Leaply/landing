@@ -1,0 +1,12 @@
+# Dependencies
+node_modules
+
+# Development build artefacts
+.nuxt
+
+# Production build artefacts
+dist
+
+# Temporary logs
+yarn-error.log
+npm-debug.log
